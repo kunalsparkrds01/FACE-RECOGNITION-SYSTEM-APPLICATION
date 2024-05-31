@@ -1,0 +1,490 @@
+[
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "mysql.connector",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mysql.connector",
+        "description": "mysql.connector",
+        "detail": "mysql.connector",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "strftime",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "strftime",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Face_Recognition",
+        "importPath": "Face_recognition",
+        "description": "Face_recognition",
+        "isExtraImport": true,
+        "detail": "Face_recognition",
+        "documentation": {}
+    },
+    {
+        "label": "Face_Recognition",
+        "importPath": "Face_recognition",
+        "description": "Face_recognition",
+        "isExtraImport": true,
+        "detail": "Face_recognition",
+        "documentation": {}
+    },
+    {
+        "label": "Face_Recognition_System",
+        "importPath": "Main",
+        "description": "Main",
+        "isExtraImport": true,
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "openpyxl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openpyxl",
+        "description": "openpyxl",
+        "detail": "openpyxl",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "student",
+        "description": "student",
+        "isExtraImport": true,
+        "detail": "student",
+        "documentation": {}
+    },
+    {
+        "label": "Train",
+        "importPath": "train",
+        "description": "train",
+        "isExtraImport": true,
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "Attendance",
+        "importPath": "attendance",
+        "description": "attendance",
+        "isExtraImport": true,
+        "detail": "attendance",
+        "documentation": {}
+    },
+    {
+        "label": "Developer",
+        "importPath": "developer",
+        "description": "developer",
+        "isExtraImport": true,
+        "detail": "developer",
+        "documentation": {}
+    },
+    {
+        "label": "Help",
+        "importPath": "help",
+        "description": "help",
+        "isExtraImport": true,
+        "detail": "help",
+        "documentation": {}
+    },
+    {
+        "label": "Attendance",
+        "kind": 6,
+        "importPath": "attendance",
+        "description": "attendance",
+        "peekOfCode": "class Attendance:\n    def __init__(self, root):\n        self.root=root\n        self.root.geometry(\"1530x790+0+0\")\n        self.root.title(\"face Recogniton System\")\n        #====================================== Variable ===========================================\n        self.var_attend_id=StringVar()\n        self.var_attend_name=StringVar()\n        self.var_attend_dep=StringVar()\n        self.var_attend_time=StringVar()",
+        "detail": "attendance",
+        "documentation": {}
+    },
+    {
+        "label": "Developer",
+        "kind": 6,
+        "importPath": "developer",
+        "description": "developer",
+        "peekOfCode": "class Developer:\n    def __init__(self,root):\n        self.root=root\n        self.root.geometry(\"1530x790+0+0\")\n        self.root.title(\"face Recogniton System\")\n        #Tittle\n        title_lbl=Label(self.root, text=\"DEVELOPER\",font=(\"times new roman\",28,\"bold\"),bg=\"pink\",fg=\"darkblue\")\n        title_lbl.place(x=0,y=2,width=1280,height=40)\n        #BG Image\n        img_top=Image.open(r\"C:\\Face_Recognition_System\\Images\\developer.jpg\")",
+        "detail": "developer",
+        "documentation": {}
+    },
+    {
+        "label": "Face_Recognition",
+        "kind": 6,
+        "importPath": "Face_recognition",
+        "description": "Face_recognition",
+        "peekOfCode": "class Face_Recognition:             #Creating main class\n    def __init__(self, root):       \n        self.root=root\n        self.root.geometry(\"1530x790+0+0\")\n        self.root.title(\"face Recogniton System\")\n        title_lbl=Label(self.root,text=\"FACE RECOGNITION\",font=(\"times new roman\",35,\"bold\"),bg=\"white\",fg=\"green\")\n        title_lbl.place(x=0,y=0,width=1300,height=55)\n        # 1st image\n        img_top=Image.open(r\"C:\\Face_Recognition_System\\Images\\Face Recognition.jpg\")\n        img_top=img_top.resize((650,700),)",
+        "detail": "Face_recognition",
+        "documentation": {}
+    },
+    {
+        "label": "Help",
+        "kind": 6,
+        "importPath": "help",
+        "description": "help",
+        "peekOfCode": "class Help:\n    def __init__(self,root):\n        self.root=root\n        self.root.geometry(\"1530x790+0+0\")\n        self.root.title(\"face Recogniton System\")\n        #Tittle\n        title_lbl=Label(self.root, text=\"HELP DESK\",font=(\"times new roman\",28,\"bold\"),bg=\"pink\",fg=\"darkblue\")\n        title_lbl.place(x=0,y=2,width=1280,height=40)\n        #BG Image\n        img_top=Image.open(r\"C:\\Face_Recognition_System\\Images\\developer.jpg\")",
+        "detail": "help",
+        "documentation": {}
+    },
+    {
+        "label": "face_data",
+        "kind": 2,
+        "importPath": "In_Main",
+        "description": "In_Main",
+        "peekOfCode": "def face_data(self):\n        self.new_window=Toplevel(self.root)\n        self.app=Face_Recognition(self.new_window)\n#============================================================================================================\n#If error in student.py\n #=============================== Get Cursor =========================================\n    def get_cursor(self, event=\"\"):\n        cursor_focus = self.student_table.focus()\n        content = self.student_table.item(cursor_focus)\n        data = content[\"values\"]",
+        "detail": "In_Main",
+        "documentation": {}
+    },
+    {
+        "label": "LoginSystem",
+        "kind": 6,
+        "importPath": "Login_system",
+        "description": "Login_system",
+        "peekOfCode": "class LoginSystem:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"Login System\")\n        self.root.geometry(\"300x200\")\n        self.username_var = StringVar()\n        self.password_var = StringVar()\n        Label(self.root, text=\"Username:\").grid(row=0, column=0, padx=10, pady=5, sticky=\"e\")\n        Entry(self.root, textvariable=self.username_var).grid(row=0, column=1, padx=10, pady=5)\n        Label(self.root, text=\"Password:\").grid(row=1, column=0, padx=10, pady=5, sticky=\"e\")",
+        "detail": "Login_system",
+        "documentation": {}
+    },
+    {
+        "label": "Face_Recognition_System",
+        "kind": 6,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "class Face_Recognition_System:\n    def __init__(self, root):\n        self.root=root\n        self.root.geometry(\"1530x790+0+0\")\n        self.root.title(\"face Recogniton System\")\n        # first image\n        img=Image.open(r\"C:\\Face_Recognition_System\\Images\\collage.jpg\")\n        img=img.resize((500,130))\n        self.photoimg=ImageTk. PhotoImage(img)\n        f_lbl=Label(self.root, image=self.photoimg)",
+        "detail": "Main",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "student",
+        "description": "student",
+        "peekOfCode": "class Student:\n    def __init__(self, root):\n        self.root=root\n        self.root.geometry(\"1530x790+0+0\")\n        self.root.title(\"face Recogniton System\")\n    #=============================== Variables =========================================\n        self.var_dep=StringVar()\n        self.var_course=StringVar()\n        self.var_year=StringVar()\n        self.var_semester=StringVar()",
+        "detail": "student",
+        "documentation": {}
+    },
+    {
+        "label": "Train",
+        "kind": 6,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "class Train:\n    def __init__(self, root):\n        self.root=root\n        self.root.geometry(\"1530x790+0+0\")\n        self.root.title(\"face Recogniton System\")\n        #Tittle\n        title_lbl=Label(self.root, text=\"TRAIN DATA SET\",font=(\"times new roman\",23,\"bold\"),bg=\"white\",fg=\"red\")\n        title_lbl.place(x=4,y=0,width=1267,height=40)\n        #Top Image\n        img_top=Image.open(r\"C:\\Face_Recognition_System\\Images\\face.jpg\")",
+        "detail": "train",
+        "documentation": {}
+    }
+]
